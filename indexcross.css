@@ -111,3 +111,10 @@ body {
     color: white;
 
 }
+
+.div1>p,
+a {
+    font-size: 25px;
+
+    color: yellow;
+}
