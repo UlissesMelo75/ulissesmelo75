@@ -10,8 +10,8 @@ body {
 
 .box1 img {
     float: left;
-    width: 10%;
-    height: 100px;
+    width: 100%;
+    height: 300px;
     border: 1px solid white
 }
 
